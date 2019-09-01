@@ -6,3 +6,9 @@ click the link to test it </br>
 3. click Spin ! </br>
 
 http://omarazi.dev.fast.sheridanc.on.ca/inClass/
+
+ <sub><sup>
+ Languages used: 
+ HTML, CSS, PHP,JAVASCRIPT
+<p>
+</sup></sub>
